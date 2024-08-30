@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e6ff944-27f6-4aa3-8489-bec4e50d237f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lM4K0rZVn5qW5PMnG3omJCrK6M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CachedFibonacciTest.executor": "Run",
+    "JUnit.GuessingGameBotTest.executor": "Run",
+    "JUnit.MockBotTest.executor": "Run",
+    "JUnit.Unnamed.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Recki/OneDrive/Documents/UQ/2024 S2/CSSE2002/W6_Practical",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.GuessingGameBotTest">
+    <configuration name="CachedFibonacciTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="W6_Prac" />
+      <option name="PACKAGE_NAME" value="debugging" />
+      <option name="MAIN_CLASS_NAME" value="debugging.CachedFibonacciTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommitBotTest" type="JUnit" factoryName="JUnit">
+      <module name="W6_Prac" />
+      <option name="PACKAGE_NAME" value="debugging" />
+      <option name="MAIN_CLASS_NAME" value="debugging.CommitBotTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessingGameBotTest" type="JUnit" factoryName="JUnit">
+      <module name="W6_Prac" />
+      <option name="PACKAGE_NAME" value="debugging" />
+      <option name="MAIN_CLASS_NAME" value="debugging.GuessingGameBotTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockBotTest" type="JUnit" factoryName="JUnit">
+      <module name="W6_Prac" />
+      <option name="PACKAGE_NAME" value="debugging" />
+      <option name="MAIN_CLASS_NAME" value="debugging.MockBotTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MulitplayerGuessingGameBotTest" type="JUnit" factoryName="JUnit">
+      <module name="W6_Prac" />
+      <option name="PACKAGE_NAME" value="debugging" />
+      <option name="MAIN_CLASS_NAME" value="debugging.MultiplayerGuessingGameBotTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecusiveFibonacciTest" type="JUnit" factoryName="JUnit">
+      <module name="W6_Prac" />
+      <option name="PACKAGE_NAME" value="debugging" />
+      <option name="MAIN_CLASS_NAME" value="debugging.RecursiveFibonacciTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CachedFibonacciTest" />
+      <item itemvalue="JUnit.CommitBotTest" />
+      <item itemvalue="JUnit.GuessingGameBotTest" />
+      <item itemvalue="JUnit.MockBotTest" />
+      <item itemvalue="JUnit.MulitplayerGuessingGameBotTest" />
+      <item itemvalue="JUnit.RecusiveFibonacciTest" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e6ff944-27f6-4aa3-8489-bec4e50d237f" name="Changes" comment="" />
+      <created>1724976547101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724976547101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/W6_Practical$GuessingGameBotTest.ic" NAME="GuessingGameBotTest Coverage Results" MODIFIED="1724978782096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>debugging.*</FILTER>
+    </SUITE>
+  </component>
+</project>
